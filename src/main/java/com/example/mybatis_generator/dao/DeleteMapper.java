@@ -1,4 +1,4 @@
-package com.example.generator.dao;
+package com.example.mybatis_generator.dao;
 
 import tk.mybatis.mapper.common.Marker;
 import tk.mybatis.mapper.common.base.delete.DeleteByPrimaryKeyMapper;
@@ -6,7 +6,7 @@ import tk.mybatis.mapper.common.condition.DeleteByConditionMapper;
 import tk.mybatis.mapper.common.ids.DeleteByIdsMapper;
 
 /**
- * @author: Mature
+ * @author: zq
  * @Description: 基础删除Mapper接口
  * @date 2018/8/17 15:54
  */

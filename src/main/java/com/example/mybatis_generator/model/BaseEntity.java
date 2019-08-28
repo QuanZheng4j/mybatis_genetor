@@ -1,9 +1,9 @@
-package com.example.generator.model;
+package com.example.mybatis_generator.model;
 
 import javax.persistence.*;
 
 /**
- * @author: Mature
+ * @author: zq
  * @Description: TODO
  * @date 2018/8/17 15:04
  */

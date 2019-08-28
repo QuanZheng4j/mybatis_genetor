@@ -1,4 +1,4 @@
-package com.example.generator.dao;
+package com.example.mybatis_generator.dao;
 
 import tk.mybatis.mapper.common.Marker;
 import tk.mybatis.mapper.common.base.select.*;
@@ -8,7 +8,7 @@ import tk.mybatis.mapper.common.example.SelectByExampleMapper;
 import tk.mybatis.mapper.common.ids.SelectByIdsMapper;
 
 /**
- * @author: Mature
+ * @author: zq
  * @Description: 基础查询Mapper接口
  * @date 2018/8/17 15:53
  */

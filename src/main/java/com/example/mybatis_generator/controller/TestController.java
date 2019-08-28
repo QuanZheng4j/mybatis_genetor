@@ -1,4 +1,4 @@
-package com.example.generator.controller;
+package com.example.mybatis_generator.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

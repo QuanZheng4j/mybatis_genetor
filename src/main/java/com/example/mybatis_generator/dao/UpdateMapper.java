@@ -1,4 +1,4 @@
-package com.example.generator.dao;
+package com.example.mybatis_generator.dao;
 
 import tk.mybatis.mapper.common.Marker;
 import tk.mybatis.mapper.common.base.update.UpdateByPrimaryKeyMapper;
@@ -8,7 +8,7 @@ import tk.mybatis.mapper.common.condition.UpdateByConditionSelectiveMapper;
 import tk.mybatis.mapper.common.example.UpdateByExampleSelectiveMapper;
 
 /**
- * @author: Mature
+ * @author: zq
  * @Description: 基础更新Mapper接口
  * @date 2018/8/17 15:52
  */
